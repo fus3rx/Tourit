@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d02d8649</color>
+    <color name="colorPrimaryDark">#a96a35e6</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorRed">#d32f2f</color>
+    <color name="yellow">#c6ff00</color>
+
+    <color name="color_home">#e1b6f1eb</color>
+    <color name="color_camera">#982196f3</color>
+    <color name="color_events">#95e078f2</color>
+    <color name="color_nearby">#b5ef604a</color>
+    <color name="white">#f1f1f1</color>
+
+    <color name="light_text">#bcbcbc</color>
+
+</resources>
+

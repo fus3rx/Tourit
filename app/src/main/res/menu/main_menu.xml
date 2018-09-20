@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/homeMenu"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp">
+    </item>
+    <item android:id="@+id/expenseMenu"
+        android:title="Expense"
+        android:icon="@drawable/ic_attach_money_black_24dp">
+    </item>
+    <item android:id="@+id/nearbyMenu"
+        android:title="Nearby"
+        android:icon="@drawable/ic_network_wifi_black_24dp">
+    </item>
+    <item android:id="@+id/galleryMenu"
+        android:title="Gallery"
+        android:icon="@drawable/ic_image_black_24dp">
+    </item>
+
+</menu>
